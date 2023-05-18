@@ -1,0 +1,11 @@
+#root {
+    color: lightcoral;
+    font-size: x-large;
+}
+
+#list {
+    font-size: large;
+    color: rebeccapurple;
+    margin: 2em;
+    padding: 2em;       
+}
